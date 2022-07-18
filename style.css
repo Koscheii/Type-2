@@ -1,0 +1,20 @@
+body{
+    background: url("https://images5.alphacoders.com/876/876590.png") no-repeat;
+    background-position: fixed;
+    -moz-background-siza: 100%;
+    -webkit-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+}
+h1{
+    color: blue; background-color: rgb(60, 9, 9);
+}
+p1{
+    color: chartreuse;
+}
+blockquote1{
+    color: cyan;
+}
+blockquote2{
+    color: rgb(0, 255, 0);
+}
