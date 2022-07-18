@@ -1,15 +1,17 @@
 body {
-    background: url("https://images5.alphacoders.com/876/876590.png") no-repeat;
-    background-position: fixed;
+    background: url("https://images5.alphacoders.com/876/876590.png") no-repeat fixed;
     -moz-background-siza: 100%;
     -webkit-background-size: 100%;
     -o-background-size: 100%;
     background-size: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    height: 2000px;
 }
 
-h1 {
+.title {
     color: blue;
-    background-color: rgb(60, 9, 9);
 }
 
 p {
@@ -18,8 +20,4 @@ p {
 
 blockquote {
     color: cyan;
-}
-
-blockquote {
-    color: rgb(0, 255, 0);
 }
