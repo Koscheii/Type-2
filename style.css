@@ -1,6 +1,7 @@
 body {
     background: url("https://images5.alphacoders.com/876/876590.png") no-repeat;
-    background-position: fixed;
+    background-size: cover;
+    background-attachment: fixed;
     -moz-background-siza: 100%;
     -webkit-background-size: 100%;
     -o-background-size: 100%;
